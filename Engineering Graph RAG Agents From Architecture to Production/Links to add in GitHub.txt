@@ -1,0 +1,63 @@
+Link 1: https://www.eyelevel.ai/post/do-vector-databases-lose-accuracy-at-scale
+
+Link 2: https://www.cognee.ai/blog/deep-dives/ai-memory-tools-evaluation
+
+Link 3: https://www.microsoft.com/en-us/research/blog/benchmarkqed-automated-benchmarking-of-rag-systems/
+
+Link 4: https://github.com/microsoft/benchmark-qed
+
+Link 5: https://blog.dottxt.ai/how-fast-cfg.html
+
+Link 6: https://www.youtube.com/live/OhsfdRxcTqQ
+
+Link 7: https://github.com/jbarrasa/goingmeta/tree/main/session34
+
+Link 8: https://github.com/lamm-mit/Graph-Aware-Transformers
+
+Link 9: https://www.youtube.com/watch?v=GGxAQVbwBL4
+
+Link 10: https://github.com/lamm-mit/Graph-Aware-Transformers
+
+Link 11: https://github.com/JayLZhou/GraphRAG
+
+Link 12: https://www.youtube.com/watch?v=kNrkHWjZaeM
+
+Link 13: https://arxiv.org/abs/2502.09304
+
+Link 14: https://arxiv.org/abs/2504.07087
+
+Link 15: https://neo4j.com/blog/developer/knowledge-graph-vs-vector-rag/?utm_source=GSearch&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=EMEA-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA-GenAI&gad_source=1&gclid=Cj0KCQjwpvK4BhDUARIsADHt9sQi6bRsbS26tJItcVn1_opbrd63rQgSt6y_gaImi1I5FR8NfDx04iwaAoGMEALw_wcB
+
+Link 16: https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/
+
+Link 17: https://arxiv.org/abs/2504.03137
+
+Link 18: https://github.com/Noah-Flame/Micro-Act
+
+Link 19: https://arxiv.org/pdf/2409.03797v1
+
+Link 20: https://github.com/snap-stanford/optimas
+
+Link 21: https://github.com/dottxt-ai/outlines
+
+Link 22: https://arxiv.org/abs/2502.16111
+
+Link 23: https://github.com/UCSC-VLAA/ReasoningEval
+
+Link 24: https://github.com/PyRGL/rgl
+
+Link 25: https://arxiv.org/abs/2505.24726
+
+Link 26: https://github.com/HishamAlyahya/semantic_backprop
+
+Link 27: https://arxiv.org/abs/2411.06037
+
+Link 28: https://www.linkedin.com/pulse/usage-moat-konstantine-buhler-frufc/
+
+Link 29: https://www.lettria.com/blogpost/vectorrag-vs-graphrag-a-convincing-comparison
+
+Link 30: https://github.com/willccbb/verifiers
+
+Link 31: https://github.com/volcengine/verl
+
+Link 32: https://www.youtube.com/watch?v=sal78ACtGTc&t=2s&ab_channel=SequoiaCapital

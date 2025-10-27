@@ -1,0 +1,5 @@
+Link 1: https://blog.pandas-ai.com/the-pandaagi-manifesto-introducing-agentic-general-intelligence/ 
+
+Link 2: https://github.com/sinaptik-ai/panda-agi
+
+Link 3: https://agi-docs.pandas-ai.com/
